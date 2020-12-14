@@ -73,6 +73,7 @@
     "@types/react-native": "^0.61.19",
     "babel-eslint": "^10.1.0",
     "babel-jest": "^25.1.0",
+    "@babel/compat-data": "7.9.0",
     "eslint": "^6.8.0",
     "eslint-plugin-flowtype": "^4.6.0",
     "eslint-plugin-prettier": "^3.1.2",
